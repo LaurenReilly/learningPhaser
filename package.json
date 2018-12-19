@@ -1,0 +1,14 @@
+{
+  "name": "firstphasergame",
+  "version": "1.0.0",
+  "description": "Lauren's First Phaser Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lauren Reilly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
